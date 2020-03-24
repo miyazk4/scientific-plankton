@@ -1,7 +1,7 @@
 ---
 title: Home
 banner:
-  title: Spectral
+  title: Some website
   subtitle: |-
     Blandit duis accumsan  
     arcu sagittis viverra  
